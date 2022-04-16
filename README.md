@@ -1,3 +1,3 @@
 # Vehicle
-Car/Bus
+Car/Bus/Motorcycle
 Idea from jetbrains.com
